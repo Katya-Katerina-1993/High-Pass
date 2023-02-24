@@ -1,4 +1,13 @@
 # High-Pass
 
-    Adaptively and semantically designed pixel perfect studio website. Flexbox and grid technologies, SCSS/SASS preprocessor were used for the layout.
-    For the build of the project is used gulp.
+Адаптивная, семантичная pixel perfect верстка сайта фотостудии. Верстка реализована с использованием таких технологий, как Flexbox и Grid, препроцессоров SCSS/SASS и с применением методологии БЭМ. Также к проекту подключена Яндекс-карта.
+Для оптимизации и сборки проекта используется сборщик gulp. Запустить проект на своем компьютере Вы можете командой "gulp".
+
+Десктоп
+![Десктоп](https://user-images.githubusercontent.com/110754881/221093769-6fe2683b-3534-4472-a4f7-a967342e6d2e.png)
+
+Планшет
+![Планшет](https://user-images.githubusercontent.com/110754881/221093799-5504278f-64ac-42f4-be43-022a7522173b.png)
+
+Мобайл
+![Мобайл](https://user-images.githubusercontent.com/110754881/221093824-0474f10b-2200-4580-9fe0-5912b07db99a.png)
